@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/types.ts","./src/vite-env.d.ts","./src/components/AnnotationBox.tsx","./src/components/ApiConfig.tsx","./src/components/CanvasArea.tsx","./src/components/InfoPanel.tsx","./src/components/Toast.tsx","./src/components/Toolbar.tsx"],"version":"5.9.3"}
